@@ -1,0 +1,50 @@
+body{
+    margin: 20%;
+}
+
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+   
+   
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 10px 5px 5px  #EFEFEF;
+}
+
+.title{
+    position: relative;
+}
+
+.close{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+
+.sc{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.submit{
+    background-color: #8758FF;
+    color: white;
+    border: none;
+    width: 70px;
+    font-size: 15px;
+}
+
+.close2{
+    color:#8758FF;
+    border: none;
+    background-color: white;
+    font-size: 15px;
+}
