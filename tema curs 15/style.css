@@ -1,0 +1,77 @@
+body{
+    margin: 5%;
+}
+
+.images{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hoodie1{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.hoodie2{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.hoodie3{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.emoji1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.emoji2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.emoji3{
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttons1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.buttons2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.buttons3{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.cart{
+    color: aliceblue;
+    background-color: black;
+    font-size: 20px;
+}
+
+.view{
+    color: black;
+    border-color: black;
+    background-color: white;
+    font-size: 20px;
+}
